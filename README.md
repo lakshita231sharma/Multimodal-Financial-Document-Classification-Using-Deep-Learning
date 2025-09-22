@@ -37,7 +37,7 @@ You can install all required libraries using:
 ```bash
 pip install -r requirements.txt
 
-Running the Notebook
+**### Running the Notebook**
 git clone https://github.com/your-username/financial-document-classification.git
 cd financial-document-classification
 jupyter notebook
