@@ -30,20 +30,12 @@ The project demonstrates how to:
 
 ### Prerequisites  
 - Python 3.8+  
-- Jupyter Notebook  
+- Jupyter Notebook
 
-### Install Dependencies  
+### Install Dependencies
 You can install all required libraries using:  
 ```bash
 pip install -r requirements.txt
-
-Running the Notebook
-git clone https://github.com/your-username/financial-document-classification.git
-cd financial-document-classification
-jupyter notebook
-
-
-Open Financial_Document_Classification.ipynb and run the cells.
 
 📊 Workflow
 
@@ -75,7 +67,4 @@ Experiment with larger and real-world financial datasets
 
 Deploy as an API for real-time classification
 
-🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss improvements.
 
